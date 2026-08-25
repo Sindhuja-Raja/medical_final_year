@@ -78,3 +78,38 @@ master...origin/master
 ```
 
 Git records the commit time and branch synchronization, but it does not record the exact time when the HTTPS push completed. Therefore, the push entry above is recorded as occurring after the initial commit, based on the server command sequence, without inventing an exact timestamp.
+
+## Server Login and Logout Records
+
+These are operating-system login sessions recorded by the server's `wtmp` database. They are different from Git commits. Each row represents one terminal login session.
+
+| User | Terminal | Login IN TIME | Logout OUT TIME | Duration | Source IP | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| `23adr188` | `pts/3` | 2026-08-25 21:44:29 | Not recorded yet | Active | `10.1.37.48` | Still logged in |
+| `23adr188` | `pts/1` | 2026-08-25 20:50:55 | 2026-08-25 20:52:54 | 1 minute | `10.1.82.61` | Logged out |
+| `23adr188` | `pts/3` | 2026-08-25 19:35:25 | 2026-08-25 19:44:32 | 9 minutes | `10.1.82.61` | Logged out |
+| `23adr188` | `pts/1` | 2026-08-25 19:18:33 | 2026-08-25 19:20:56 | 2 minutes | `10.1.82.61` | Logged out |
+| `23adr188` | `pts/1` | 2026-08-25 19:14:32 | 2026-08-25 19:17:34 | 3 minutes | `10.1.82.61` | Logged out |
+| `23adr188` | `pts/1` | 2026-08-25 17:18:11 | 2026-08-25 17:20:56 | 2 minutes | `10.1.82.61` | Logged out |
+| `23alr009` | `pts/1` | 2026-08-25 14:40:26 | 2026-08-25 14:57:32 | 17 minutes | `10.1.110.143` | Logged out |
+| `23alr009` | `pts/1` | 2026-08-25 12:06:32 | 2026-08-25 12:30:27 | 23 minutes | `10.2.11.25` | Logged out |
+| `kec3155` | `pts/0` | 2026-08-25 11:44:35 | Not recorded yet | Active | `10.2.8.153` | Still logged in |
+| `23aur005` | `pts/0` | 2026-08-25 11:35:35 | 2026-08-25 11:44:12 | 8 minutes | `10.2.8.153` | Logged out |
+| `23adr169` | `pts/1` | 2026-08-25 10:55:46 | 2026-08-25 11:35:37 | 39 minutes | `10.1.111.74` | Logged out |
+| `23adr169` | `pts/1` | 2026-08-25 10:39:24 | 2026-08-25 10:55:04 | 15 minutes | `10.1.111.74` | Logged out |
+
+### How To Get Every Record
+
+Run this command on the server to print the complete available login/logout history, including all users and source addresses:
+
+```bash
+last -Fai
+```
+
+Use `lastlog` to see the latest login for every local account:
+
+```bash
+lastlog
+```
+
+The server currently has no application-level login system in this project. Therefore, these records are Linux terminal/SSH session records. A session shown as `still logged in` has an IN TIME but will receive its OUT TIME only after that session exits. The login database does not provide records for sessions that occurred before its retained history.
