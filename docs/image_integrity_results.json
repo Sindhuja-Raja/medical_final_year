@@ -1,0 +1,2607 @@
+{
+  "total_scanned": 112120,
+  "missing_on_disk_count": 0,
+  "corrupt_count": 0,
+  "unexpected_dims_count": 0,
+  "unexpected_modes_count": 519,
+  "scan_time_seconds": 417.2048292160034,
+  "corrupt_list": [],
+  "unexpected_dims_list": [],
+  "unexpected_modes_list": [
+    {
+      "filename": "00000107_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000107_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001260_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001260_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001252_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001252_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001206_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001206_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000317_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000317_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000292_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000292_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000660_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000660_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000086_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000086_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000100_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000100_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001230_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001230_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001305_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001305_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000856_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000856_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000141_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000141_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000201_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000201_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000059_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000059_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000773_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000773_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001109_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001109_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000076_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000076_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000766_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000766_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000214_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000214_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000095_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000095_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000139_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000139_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000298_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000298_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000318_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000318_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000084_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000084_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000115_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000115_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000955_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000955_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000536_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000536_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000083_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000083_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000955_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000955_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001255_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001255_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001280_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001280_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000976_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000976_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000370_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000370_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000206_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000206_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001054_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001054_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000004_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000004_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001306_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001306_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001280_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001280_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001274_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001274_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000273_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000273_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000603_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000603_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000888_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000888_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001287_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001287_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000967_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000967_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000825_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000825_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000123_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000123_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001282_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001282_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000900_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000900_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000347_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000347_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000579_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000579_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000429_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000429_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000832_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000832_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001316_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001316_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001206_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001206_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000122_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000122_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000058_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000058_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000929_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000929_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000287_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000287_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001054_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001054_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000918_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000918_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000151_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000151_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000727_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000727_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000806_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000806_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000210_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000210_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000218_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000218_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000497_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000497_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000398_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000398_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001140_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001140_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00000917_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00000917_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001055_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_001/images/00001055_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00024879_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_011/images/00024879_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00025277_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_011/images/00025277_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00026982_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_011/images/00026982_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00027784_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_011/images/00027784_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00026725_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_011/images/00026725_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00016786_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00016786_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017325_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017325_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00016987_018.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00016987_018.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017138_111.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017138_111.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017735_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017735_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017123_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017123_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017123_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017123_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00018224_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00018224_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00016987_017.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00016987_017.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00018317_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00018317_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00017835_031.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_008/images/00017835_031.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003752_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003752_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002072_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002072_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002320_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002320_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002072_012.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002072_012.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002052_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002052_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002227_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002227_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001567_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001567_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003383_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003383_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002072_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002072_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003344_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003344_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002608_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002608_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002057_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002057_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001882_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001882_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001676_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001676_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001420_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001420_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001951_011.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001951_011.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001396_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001396_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001532_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001532_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003263_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003263_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001433_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001433_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001561_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001561_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003255_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003255_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003137_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003137_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002255_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002255_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002813_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002813_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003678_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003678_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002843_012.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002843_012.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002310_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002310_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002589_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002589_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002543_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002543_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001593_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001593_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003215_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003215_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002791_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002791_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002857_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002857_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002863_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002863_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003880_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003880_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002404_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002404_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002101_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002101_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003923_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003923_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002840_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002840_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003400_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003400_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003611_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003611_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002720_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002720_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002510_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002510_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003354_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003354_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001720_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001720_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002990_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002990_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003426_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003426_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002221_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002221_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001410_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001410_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003027_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003027_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003916_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003916_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003002_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003002_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001558_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001558_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003738_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003738_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002905_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002905_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001622_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001622_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002253_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002253_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003217_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003217_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002184_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002184_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002807_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002807_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003145_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003145_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001369_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001369_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003634_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003634_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003821_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003821_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002431_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002431_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002639_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002639_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003281_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003281_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002629_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002629_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001776_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001776_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002846_012.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002846_012.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003262_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003262_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003923_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003923_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002983_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002983_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003206_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003206_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002226_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002226_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001416_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001416_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001637_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001637_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003372_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00003372_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002578_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002578_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00002382_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00002382_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00001755_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_002/images/00001755_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005798_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005798_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005496_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005496_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005622_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005622_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005655_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005655_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004094_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004094_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004060_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004060_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006280_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006280_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006305_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006305_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006211_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006211_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005568_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005568_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006109_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006109_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006214_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006214_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006127_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006127_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006015_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006015_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005598_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005598_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005977_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005977_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004644_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004644_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005512_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005512_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005023_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005023_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004465_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004465_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005365_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005365_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004974_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004974_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004132_011.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004132_011.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005813_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005813_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004519_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004519_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005447_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005447_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004664_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004664_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004750_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004750_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006117_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006117_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005502_014.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005502_014.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006109_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006109_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006214_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006214_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005445_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005445_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004360_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004360_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005394_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005394_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006439_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006439_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006215_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006215_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004973_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004973_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005756_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005756_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006189_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006189_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006033_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006033_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006074_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006074_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006080_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006080_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004477_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004477_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005907_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005907_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004730_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004730_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004281_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004281_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004872_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004872_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006391_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006391_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004694_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004694_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005555_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005555_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006147_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006147_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005853_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005853_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005960_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005960_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005970_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005970_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006015_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006015_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006160_013.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006160_013.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004072_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004072_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005995_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005995_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005435_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005435_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005888_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005888_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006522_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006522_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006084_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006084_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005502_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005502_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005682_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005682_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005896_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005896_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005158_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005158_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004703_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004703_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005524_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005524_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005176_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005176_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004770_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004770_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004826_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004826_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004784_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004784_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005519_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005519_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006275_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006275_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004974_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004974_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004548_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004548_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004454_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004454_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005479_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005479_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004640_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004640_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005746_011.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005746_011.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005766_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005766_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004720_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004720_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004502_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004502_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006000_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006000_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005027_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005027_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005479_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005479_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004709_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004709_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004566_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004566_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005388_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005388_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004940_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004940_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006243_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006243_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005577_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005577_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005721_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005721_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006138_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006138_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005693_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005693_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006246_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006246_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006523_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006523_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006296_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006296_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006277_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006277_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004438_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004438_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004677_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004677_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005579_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005579_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005935_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005935_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00003976_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00003976_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005416_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005416_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005591_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005591_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005935_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005935_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004877_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004877_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006015_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006015_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005723_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005723_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006499_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006499_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005934_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005934_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005510_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005510_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005966_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005966_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004519_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004519_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006177_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006177_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006467_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006467_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005528_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005528_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004632_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004632_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004693_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004693_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004808_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004808_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004360_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004360_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005895_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005895_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005746_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005746_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004882_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004882_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006230_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006230_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006138_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006138_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005210_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005210_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005717_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005717_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005123_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005123_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004517_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004517_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004853_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004853_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004395_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004395_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004985_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004985_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006271_060.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006271_060.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004612_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004612_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004582_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004582_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005722_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005722_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004873_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004873_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005719_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005719_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004934_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004934_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005935_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005935_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004776_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004776_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006102_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006102_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005794_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005794_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004925_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004925_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004358_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004358_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005913_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005913_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004602_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004602_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006214_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006214_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004512_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004512_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006180_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006180_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005501_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005501_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006024_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006024_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005487_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005487_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006212_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006212_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004383_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004383_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006208_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006208_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005788_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005788_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005935_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005935_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006002_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006002_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004518_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004518_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005465_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005465_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005395_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005395_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005460_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005460_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004132_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004132_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006214_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006214_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004477_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004477_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004771_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004771_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006232_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006232_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005537_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005537_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004695_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004695_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005224_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005224_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006149_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006149_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005636_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005636_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006019_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00006019_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005722_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005722_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005839_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005839_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004576_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004576_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004719_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004719_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00005480_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00005480_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00004421_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_003/images/00004421_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010775_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010775_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_039.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_039.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011074_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00011074_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010531_044.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010531_044.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010530_024.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010530_024.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010698_049.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010698_049.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010625_023.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010625_023.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011322_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00011322_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010829_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010829_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010640_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010640_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010808_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010808_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00010352_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_005/images/00010352_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00020933_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00020933_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00020434_010.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00020434_010.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00020852_022.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00020852_022.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019492_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019492_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00020434_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00020434_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00018739_023.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00018739_023.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00020390_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00020390_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00018802_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00018802_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019373_056.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019373_056.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019576_063.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019576_063.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019664_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019664_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019407_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019407_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00019521_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_009/images/00019521_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015831_012.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015831_012.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015626_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015626_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014716_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014716_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014380_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014380_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014939_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014939_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014545_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014545_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015449_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015449_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015530_050.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015530_050.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015530_044.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015530_044.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014174_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014174_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014174_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014174_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014208_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014208_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014223_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014223_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014549_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014549_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015530_141.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015530_141.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014419_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014419_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014989_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014989_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014223_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014223_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013993_014.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00013993_014.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014223_008.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014223_008.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014223_012.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014223_012.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014397_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014397_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014211_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014211_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015572_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015572_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014397_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014397_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014223_011.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014223_011.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014426_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014426_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014769_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014769_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015844_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015844_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014712_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014712_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013993_016.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00013993_016.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013993_015.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00013993_015.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00015530_126.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00015530_126.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00014486_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_007/images/00014486_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030323_022.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030323_022.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030079_066.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030079_066.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030323_019.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030323_019.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00029585_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00029585_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030374_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030374_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00029222_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00029222_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00029025_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00029025_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030408_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030408_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00028661_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00028661_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030798_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030798_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00029745_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00029745_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030805_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030805_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00030323_020.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00030323_020.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00029654_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_012/images/00029654_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00012403_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00012403_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00012139_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00012139_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013360_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00013360_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00012524_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00012524_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011723_039.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00011723_039.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013615_051.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00013615_051.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00013539_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00013539_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00012314_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00012314_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011963_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00011963_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00012241_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00012241_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011702_034.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00011702_034.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00011978_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_006/images/00011978_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006697_007.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006697_007.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006760_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006760_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007258_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007258_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006757_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006757_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006865_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006865_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007209_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007209_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006984_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006984_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007174_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007174_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006691_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006691_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007234_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007234_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007076_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007076_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007979_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007979_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007471_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007471_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007233_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007233_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007583_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007583_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006948_020.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006948_020.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007078_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007078_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007131_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007131_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007034_064.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007034_064.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007048_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007048_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007765_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007765_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007034_063.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007034_063.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007497_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007497_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007780_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007780_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007684_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007684_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006671_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006671_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00008499_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00008499_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00008645_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00008645_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00008072_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00008072_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006990_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006990_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007588_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007588_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007156_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007156_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007442_013.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007442_013.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006843_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006843_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006993_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006993_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006861_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006861_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007217_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007217_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006709_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006709_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007041_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007041_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006989_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006989_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007145_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007145_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00009232_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00009232_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006825_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006825_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007004_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007004_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007165_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007165_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006904_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006904_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00008297_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00008297_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006981_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006981_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006968_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006968_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006699_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006699_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007056_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007056_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007040_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007040_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007335_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007335_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006763_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006763_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00008470_009.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00008470_009.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007049_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007049_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007188_006.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007188_006.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006897_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006897_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00009034_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00009034_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007034_037.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007034_037.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007313_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007313_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007951_002.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007951_002.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006855_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006855_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006891_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006891_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007684_004.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007684_004.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006823_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006823_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007245_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007245_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00007247_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00007247_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00006627_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_004/images/00006627_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023570_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023570_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023344_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023344_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023329_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023329_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00022295_001.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00022295_001.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00021131_005.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00021131_005.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023604_003.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023604_003.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023336_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023336_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00024210_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00024210_000.png",
+      "mode": "RGBA"
+    },
+    {
+      "filename": "00023328_000.png",
+      "path": "/home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/images_010/images/00023328_000.png",
+      "mode": "RGBA"
+    }
+  ]
+}

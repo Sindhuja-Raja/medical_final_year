@@ -1,0 +1,64 @@
+dataset:
+  labels:
+  - Atelectasis
+  - Cardiomegaly
+  - Effusion
+  - Infiltration
+  - Mass
+  - Nodule
+  - Pneumonia
+  - Pneumothorax
+  - Consolidation
+  - Edema
+  - Emphysema
+  - Fibrosis
+  - Pleural_Thickening
+  - Hernia
+  name: NIH ChestX-ray14
+  paths:
+    csv: /home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/Data_Entry_2017.csv
+    images: /home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3
+    root: /home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3
+    test_list: /home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/test_list.txt
+    train_val_list: /home/23adr188/chest_xray_project/data/raw/datasets/nih-chest-xrays/data/versions/3/train_val_list.txt
+  splitting:
+    paths:
+      test_csv: /home/23adr188/chest_xray_project/data/splits/test.csv
+      train_csv: /home/23adr188/chest_xray_project/data/splits/train.csv
+      val_csv: /home/23adr188/chest_xray_project/data/splits/val.csv
+    random_seed: 42
+    statistics:
+      test:
+        images: 25596
+        patients: 2797
+      train:
+        images: 77588
+        patients: 25207
+      val:
+        images: 8936
+        patients: 2801
+    val_ratio: 0.1
+  statistics:
+    class_counts:
+      Atelectasis: 11559
+      Cardiomegaly: 2776
+      Consolidation: 4667
+      Edema: 2303
+      Effusion: 13317
+      Emphysema: 2516
+      Fibrosis: 1686
+      Hernia: 227
+      Infiltration: 19894
+      Mass: 5782
+      No Finding: 60361
+      Nodule: 6331
+      Pleural_Thickening: 3385
+      Pneumonia: 1431
+      Pneumothorax: 5302
+    patient_overlap: 0
+    test_images: 25596
+    test_patients: 2797
+    total_images: 112120
+    total_patients: 30805
+    train_val_images: 86524
+    train_val_patients: 28008

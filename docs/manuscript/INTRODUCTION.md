@@ -1,0 +1,8 @@
+# Introduction
+
+Chest radiography is the most widely performed diagnostic imaging modality worldwide, presenting a significant workload for radiology departments. Automated multi-label deep learning models have shown promising classification discrimination (Area Under the Receiver Operating Characteristic curve, AUROC) for detecting multiple abnormalities. However, translation into clinical utility is hindered by two persistent challenges:
+
+1. **Probability Overconfidence:** Deep neural networks optimized using cross-entropy loss are prone to poorly calibrated probabilities. This poor calibration means predicted values do not correspond to the actual frequency of the disease, making them difficult for clinicians to interpret as diagnostic confidence scores.
+2. **Suboptimal Decision Thresholds:** Models are commonly evaluated using the default classification threshold of `0.5`. In clinical settings, this default threshold often results in low sensitivity, which is unacceptable for screening tools where false negatives must be minimized.
+
+In this study, we present a systematic framework to address these issues. We optimize temperature scaling for probability calibration and select clinical operating thresholds (Youden's J and sensitivity-targeted operating points) exclusively on a patient-safe validation split. We evaluate the generalizability of these frozen parameters on a locked internal test set and an independent external validation cohort from VinDr-CXR. We explicitly characterize the sensitivity-specificity trade-offs and domain shifts associated with external validation.
