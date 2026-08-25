@@ -11,6 +11,16 @@
 
 ## Server Timing
 
+### Simple Explanation
+
+This project was already being prepared on the server by **12 August 2026 at 3:05:59 PM**. That is the earliest time recorded for any project file. The project work continued through **25 August 2026**, with the model files last updated shortly after noon.
+
+At **9:08:46 PM on 25 August 2026**, the complete project was collected into its first Git commit. This created a permanent snapshot containing the source code, scripts, documentation, configuration, and tests.
+
+After that snapshot was created, the server connected the project to the requested GitHub repository and uploaded the `master` branch. The final change-log commit was completed at **9:12:47 PM**, and GitHub confirmed that the branch was uploaded successfully. The server had no uncommitted changes afterward.
+
+In short: **the earliest recorded server IN TIME was 12 August at 3:05:59 PM, and the final recorded OUT TIME was 25 August at 9:12:47 PM.** This is the observed time window for the project files and publishing work, not a claim that no activity occurred before the first file timestamp.
+
 | Timing | Date and time | Evidence and meaning |
 | --- | --- | --- |
 | IN TIME | 2026-08-12 15:05:59 +05:30 | Earliest project file timestamp found on the server: `MASTER_PROJECT_PLAN.md` |
